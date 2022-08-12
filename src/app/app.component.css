@@ -1,0 +1,250 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxanium:wght@500;600&display=swap");
+.nav {
+  border: none;
+  transform: skew(15deg);
+  margin-bottom: 30px;
+}
+.nav-text {
+  font-family: "Oxanium", cursive;
+  transform: skew(-15deg);
+}
+.nav-link {
+  color: #bebebe;
+  background-color: #2020209c;
+  box-shadow: 0px 7px 0px 0px #6b6b6b;
+  border: none;
+  width: 100px;
+}
+.nav-link.active {
+  background-color: #2020209c;
+  color: white !important;
+  border: none;
+  box-shadow: 0px 7px 0px 0px #da292a, inset 0px -20px 50px -10px #ff4200a6;
+}
+.nav-link.active:hover {
+  box-shadow: 0px 7px 0px 0px #ff4200, inset 0px -20px 50px -10px #ff5f25a6;
+}
+.nav-link:hover {
+  border: none;
+  background-color: #6868689c;
+  box-shadow: 0px 7px 0px 0px #ffffff;
+}
+.apex-random-button {
+  height: 150px;
+  width: 250px;
+  border-top: 1px solid white;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+  border-bottom: 15px solid #da292a;
+  background-color: #b8b8b823;
+  box-shadow: inset 0px -20px 50px -10px rgba(255, 66, 0, 0.65);
+  color: white;
+  font-family: "Oxanium", cursive;
+  font-size: 33px;
+  font-weight: 600;
+  transition: all 0.1s linear;
+  position: absolute;
+  bottom: 0;
+}
+.apex-random-button:hover {
+  border-color: #da292a;
+  box-shadow: inset 0px 0px 50px 0px #ff4200;
+  transition: all 0.1s linear;
+}
+.app-bg {
+  height: 100vh;
+  background-color: #212121;
+  opacity: 1;
+  background-size: 13px 13px;
+  background-image: repeating-linear-gradient(
+    45deg,
+    #303030 0,
+    #303030 1.3px,
+    #212121 0,
+    #212121 50%
+  );
+}
+.char-image {
+  width: 280px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.character-tag {
+  padding-top: 10px;
+  color: white;
+  font-family: "Oxanium", cursive;
+  font-size: 18px;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  text-align: center;
+}
+.character-info-container {
+  margin-left: auto;
+  margin-right: auto;
+  border-left: 3px red solid;
+  background: #212121;
+  background: linear-gradient(
+    90deg,
+    rgba(33, 33, 33, 1) 43%,
+    rgba(33, 33, 33, 0.21332282913165268) 100%
+  );
+}
+.character-ability {
+  height: 55px;
+  width: auto;
+}
+.table-ability-name {
+  width: 200px;
+}
+.character-table {
+  color: white;
+  font-family: "Oxanium", cursive;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  font-size: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.weapon-container {
+  position: relative;
+  transform: scale(1.1);
+}
+.weapon-border {
+  width: 350px;
+  height: auto;
+}
+.container-name {
+  position: absolute;
+  top: 0px;
+  left: 14px;
+  color: white;
+  font-family: "Oxanium", cursive;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  font-size: 16px;
+}
+.weapon-icon {
+  position: absolute;
+  top: 65px;
+  left: 75px;
+  filter: invert(98%) sepia(81%) saturate(7%) hue-rotate(163deg)
+    brightness(104%) contrast(102%);
+  height: 60px;
+  width: auto;
+}
+.weapon-name {
+  position: absolute;
+  top: 130px;
+  left: 10px;
+  color: white;
+  font-family: "Oxanium", cursive;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  font-size: 16px;
+}
+.optic-container {
+  position: absolute;
+  top: 150px;
+  left: 6px;
+  border: 2px solid #686868;
+  border-radius: 4px;
+  height: 68px;
+  width: 68px;
+}
+.optic-container:hover {
+  border-color: white;
+}
+.optic-icon {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 60px;
+  height: 60px;
+}
+.ammo-type {
+  position: absolute;
+  top: 160px;
+  left: 282px;
+  width: 60px;
+  height: 60px;
+}
+.optic-common {
+  box-shadow: inset 0px -45px 50px -40px #bababab9;
+}
+.optic-rare {
+  box-shadow: inset 0px -45px 50px -40px #415effb9;
+}
+.optic-epic {
+  box-shadow: inset 0px -45px 50px -40px #89398bb9;
+}
+.optic-legendary {
+  box-shadow: inset 0px -45px 50px -40px #fccd4bb9;
+}
+.map-container {
+  align-items: center;
+  justify-content: center;
+  overflow: auto;
+  display: none;
+  width: auto;
+  position: relative;
+}
+.apex-map {
+  height: 600px;
+  width: 600px;
+  border-radius: 10px;
+}
+.drop-name {
+  text-align: center;
+  color: white;
+  font-family: "Oxanium", cursive;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  font-size: 16px;
+}
+
+@media (max-width: 800px) {
+  .apex-random-button {
+    height: 100px;
+    width: 200px;
+    font-size: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .char-image {
+    width: 230px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  .apex-map {
+    padding: 0;
+    margin: 0;
+    height: 350px;
+    width: 350px;
+  }
+  .weapon-container {
+    transform: scale(0.8);
+  }
+  .character-ability {
+    height: 50px;
+  }
+  .character-tag {
+    font-size: 16px;
+  }
+}
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadeout {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}

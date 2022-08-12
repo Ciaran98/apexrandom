@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "apexrandom": {
+      "hosting": {
+        "apexrandom": [
+          "apexrandom"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "apexrandom"
+  }
+}

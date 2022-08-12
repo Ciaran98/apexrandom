@@ -1,0 +1,379 @@
+{
+    "Legends":["Ash","Bangalore","Bloodhound","Caustic","Crypto","Fuse","Gibraltar",
+        "Horizon","Lifeline","Loba","Mad Maggie","Mirage","Octane","Pathfinder",
+        "Rampart","Revenant","Seer","Valkyrie","Wattson","Wraith","Newcastle","Vantage"],
+        "Legend Details":{
+            "Ash":{
+                "Real Name":"Ashleigh Reid",
+                "Tagline":"Incisive Instigator",
+                "Tactical Ability":"Arc Snare",
+                "Passive Ability":"Marked For Death",
+                "Ultimate Ability":"Phase Breach",
+                "Color":"#dba339"
+            },
+            "Bangalore":{
+                "Real Name":"Anita Williams",
+                "Tagline":"Professional Soldier",
+                "Tactical Ability":"Smoke Launcher",
+                "Passive Ability":"Double Time",
+                "Ultimate Ability":"Rolling Thunder",
+                "Color":"#b51f33"
+            },
+            "Bloodhound":{
+                "Real Name":"Unknown",
+                "Tagline":"Technological Tracker",
+                "Tactical Ability":"Eye of the Allfather",
+                "Passive Ability":"Tracker",
+                "Ultimate Ability":"Beast of the Hunt",
+                "Color":"#eb4034"
+            },
+            "Caustic":{
+                "Real Name":"Alexander Nox",
+                "Tagline":"Toxic Trapper",
+                "Tactical Ability":"Nox Gas Trap",
+                "Passive Ability":"Nox Vision",
+                "Ultimate Ability":"Nox Gas Grenade",
+                "Color":"#8dde37"
+            },
+            "Crypto":{
+                "Real Name":"Tae Joon Park",
+                "Tagline":"Surveillance Expert",
+                "Tactical Ability":"Surveillance Drone",
+                "Passive Ability":"Neuorlink",
+                "Ultimate Ability":"Drone EMP",
+                "Color":"#3d823b"
+            },
+            "Fuse":{
+                "Real Name":"Walter Fitzroy",
+                "Tagline":"Bombastic Explosives Expert",
+                "Tactical Ability":"Knuckle Cluster",
+                "Passive Ability":"Grenadier",
+                "Ultimate Ability":"The Motherlode",
+                "Color":"#de7d1d"
+            },
+            "Gibraltar":{
+                "Real Name":"Makoa Gibraltar",
+                "Tagline":"Shielded Fortress",
+                "Tactical Ability":"Dome of Protection",
+                "Passive Ability":"Gun Shield",
+                "Ultimate Ability":"Defensive Bombardment",
+                "Color":"#d15b24"
+            },
+            "Horizon":{
+                "Real Name":"Mary Somers",
+                "Tagline":"Gravitational Manipulator",
+                "Tactical Ability":"Gravity Lift",
+                "Passive Ability":"Spacewalk",
+                "Ultimate Ability":"Black Hole",
+                "Color":"#2449ad"
+            },
+            "Lifeline":{
+                "Real Name":"Ajay Che",
+                "Tagline":"Combat Medic",
+                "Tactical Ability":"D.O.C. Heal Drone",
+                "Passive Ability":"Combat Medic",
+                "Ultimate Ability":"Care Package",
+                "Color":"#d17e71"
+            },
+            "Loba":{
+                "Real Name":"Loba Andrade",
+                "Tagline":"Translocating Thief",
+                "Tactical Ability":"Burglar's Best Friend",
+                "Passive Ability":"Eye for Quality",
+                "Ultimate Ability":"Black Market Boutique",
+                "Color":"#cf7821"
+            },
+            "Mad Maggie":{
+                "Real Name":"Margaret Kōhere",
+                "Tagline":"Rebel Warlord",
+                "Tactical Ability":"Riot Drill",
+                "Passive Ability":"Warlord's Ire",
+                "Ultimate Ability":"Wrecking Ball",
+                "Color":"#f0f04f"
+            },
+            "Mirage":{
+                "Real Name":"Elliott Witt",
+                "Tagline":"Holographic Trickster",
+                "Tactical Ability":"Psyche Out",
+                "Passive Ability":"Now You See Me",
+                "Ultimate Ability":"Life of the Party",
+                "Color":"#e8c423"
+            },
+            "Octane":{
+                "Real Name":"Octavio Silva",
+                "Tagline":"High-Speed Daredevil",
+                "Tactical Ability":"Stim",
+                "Passive Ability":"Swift Mend",
+                "Ultimate Ability":"Launch Pad",
+                "Color":"#aeff36"
+            },
+            "Pathfinder":{
+                "Real Name":"MRVN",
+                "Tagline":"Forward Scout",
+                "Tactical Ability":"Grappling Hook",
+                "Passive Ability":"Insider Knowledge",
+                "Ultimate Ability":"Zipline Gun",
+                "Color":"#4648ab"
+            },
+            "Rampart":{
+                "Real Name":"Ramya Parekh",
+                "Tagline":"Amped Modder",
+                "Tactical Ability":"Amped Cover",
+                "Passive Ability":"Modded Loader",
+                "Ultimate Ability":"Emplaced Minigun \"Shiela\"",
+                "Color":"#e62090"
+            },
+            "Revenant":{
+                "Real Name":"Unknown",
+                "Tagline":"Synthetic Nightmare",
+                "Tactical Ability":"Silence",
+                "Passive Ability":"Stalker",
+                "Ultimate Ability":"Death Totem",
+                "Color":"#f59d22"
+            },
+            "Seer":{
+                "Real Name":"Obi Edolasim",
+                "Tagline":"Ambush Artist",
+                "Tactical Ability":"Focus of Attention",
+                "Passive Ability":"Heart Seeker",
+                "Ultimate Ability":"Exhibit",
+                "Color":"#4d97ff"
+            },
+            "Valkyrie":{
+                "Real Name":"Kairi Imahara",
+                "Tagline":"Winged Avenger",
+                "Tactical Ability":"Missile Swarm",
+                "Passive Ability":"VTOL Jets",
+                "Ultimate Ability":"Skyward Dive",
+                "Color":"#d40000"
+            },
+            "Wattson":{
+                "Real Name":"Natalie Paquette",
+                "Tagline":"Static Defender",
+                "Tactical Ability":"Perimeter Security",
+                "Passive Ability":"Spark of Genius",
+                "Ultimate Ability":"Interceptor Pylon",
+                "Color":"#00bbc4"
+            },
+            "Wraith":{
+                "Real Name":"Renee Blasey",
+                "Tagline":"Interdimensional Skirmisher",
+                "Tactical Ability":"Into the Void",
+                "Passive Ability":"Voices from the Void",
+                "Ultimate Ability":"Dimensional Rift",
+                "Color":"#681cff"
+            },
+            "Newcastle":{
+                "Real Name":"Jackson Williams",
+                "Tagline":"Heroic Defender",
+                "Tactical Ability":"Mobile Shield",
+                "Passive Ability":"Retrieve the Wounded",
+                "Ultimate Ability":"Castle Wall",
+                "Color":"#00c1e8"
+            },
+            "Vantage":{
+                "Real Name":"Xiomara “Mara” Contreras",
+                "Tagline":"Sniper Savant",
+                "Tactical Ability":"Echo Relocation",
+                "Passive Ability":"Spotter's Lens",
+                "Ultimate Ability":"Sniper's Mark",
+                "Color":"#8aebff"
+            }
+        },
+        "Weapon":[
+            "HAVOC","VK-47 FLATLINE","HEMLOK BURST AR","R-301 CARBINE",
+            "ALTERNATOR SMG","PROWLER BURST PDW","R-99 SMG","VOLT SMG","C.A.R. SMG",
+            "DEVOTION LMG","L-STAR EMG","M600 SPITFIRE","RAMPAGE LMG",
+            "G7 SCOUT","TRIPLE TAKE","30-30 REPEATER","BOCEK COMPOUND BOW",
+            "CHARGE RIFLE","LONGBOW DMR","SENTINEL",
+            "EVA-8 AUTO","MASTIFF SHOTGUN","MOZAMBIQUE SHOTGUN","PEACEKEEPER",
+            "RE-45 AUTO","P2020","WINGMAN"
+        ],
+        "Weapon Data":{
+            "HAVOC":{
+                "Name":"HAVOC",
+                "Ammo Type":"Energy Ammo",
+                "Optic Class":"Mid-Range",
+                "Image":"havoc.svg"
+            },
+            "VK-47 FLATLINE":{
+                "Name":"VK-47 FLATLINE",
+                "Ammo Type":"Heavy Rounds",
+                "Optic Class":"Mid-Range",
+                "Image":"vk47_flatline.svg"
+            },
+            "HEMLOK BURST AR":{
+                "Name":"HEMLOK BURST AR",
+                "Ammo Type":"Heavy Rounds",
+                "Optic Class":"Mid-Range",
+                "Image":"hemlok_burst_ar.svg"
+            },
+            "R-301 CARBINE":{
+                "Name":"R-301 CARBINE",
+                "Ammo Type":"Light Rounds",
+                "Optic Class":"Mid-Range",
+                "Image":"r301_carbine.svg"
+            },
+            "ALTERNATOR SMG":{
+                "Name":"ALTERNATOR SMG",
+                "Ammo Type":"Light Rounds",
+                "Optic Class":"Close Range",
+                "Image":"alternator_smg.svg"
+            },
+            "PROWLER BURST PDW":{
+                "Name":"PROWLER BURST PDW",
+                "Ammo Type":"Heavy Rounds",
+                "Optic Class":"Close Range",
+                "Image":"prowler_burst_pdw.svg"
+            },
+            "R-99 SMG":{
+                "Name":"R-99 SMG",
+                "Ammo Type":"Light Rounds",
+                "Optic Class":"Close Range",
+                "Image":"r99_smg.svg"
+            },
+            "VOLT SMG":{
+                "Name":"VOLT SMG",
+                "Ammo Type":"Energy Ammo",
+                "Optic Class":"Close Range",
+                "Image":"volt_smg.svg"
+            },
+            "C.A.R. SMG":{
+                "Name":"C.A.R. SMG",
+                "Ammo Type":"Heavy Rounds",
+                "Optic Class":"Close Range",
+                "Image":"car_smg.svg"
+            },
+            "DEVOTION LMG":{
+                "Name":"DEVOTION LMG",
+                "Ammo Type":"Energy Ammo",
+                "Optic Class":"Mid-Range",
+                "Image":"devotion_lmg.svg"
+            },
+            "L-STAR EMG":{
+                "Name":"L-STAR EMG",
+                "Ammo Type":"Energy Ammo",
+                "Optic Class":"Mid-Range",
+                "Image":"lstar_emg.svg"
+            },
+            "M600 SPITFIRE":{
+                "Name":"M600 SPITFIRE",
+                "Ammo Type":"Light Rounds",
+                "Optic Class":"Mid-Range",
+                "Image":"m600_spitfire.svg"
+            },
+            "RAMPAGE LMG":{
+                "Name":"RAMPAGE LMG",
+                "Ammo Type":"Heavy Rounds",
+                "Optic Class":"Mid-Range",
+                "Image":"rampage_lmg.svg"
+            },
+            "G7 SCOUT":{
+                "Name":"G7 SCOUT",
+                "Ammo Type":"Light Rounds",
+                "Optic Class":"Mid-Range",
+                "Image":"g7_scout.svg"
+            },
+            "TRIPLE TAKE":{
+                "Name":"TRIPLE TAKE",
+                "Ammo Type":"Energy Ammo",
+                "Optic Class":"Mid-Range",
+                "Image":"triple_take.svg"
+            },
+            "30-30 REPEATER":{
+                "Name":"30-30 REPEATER",
+                "Ammo Type":"Heavy Rounds",
+                "Optic Class":"Mid-Range",
+                "Image":"3030_repeater.svg"
+            },
+            "BOCEK COMPOUND BOW":{
+                "Name":"BOCEK COMPOUND BOW",
+                "Ammo Type":"Arrows",
+                "Optic Class":"Mid-Range",
+                "Image":"bocek_compound_bow.svg"
+            },
+            "CHARGE RIFLE":{
+                "Name":"CHARGE RIFLE",
+                "Ammo Type":"Sniper Ammo",
+                "Optic Class":"Sniper",
+                "Image":"charge_rifle.svg"
+            },
+            "LONGBOW DMR":{
+                "Name":"LONGBOW DMR",
+                "Ammo Type":"Sniper Ammo",
+                "Optic Class":"Sniper",
+                "Image":"longbow_dmr.svg"
+            },
+            "SENTINEL":{
+                "Name":"SENTINEL",
+                "Ammo Type":"Sniper Ammo",
+                "Optic Class":"Sniper",
+                "Image":"sentinel.svg"
+            },
+            "EVA-8 AUTO":{
+                "Name":"EVA-8 AUTO",
+                "Ammo Type":"Shotgun Shells",
+                "Optic Class":"Close Range",
+                "Image":"eva8_auto.svg"
+            },
+            "MASTIFF SHOTGUN":{
+                "Name":"MASTIFF SHOTGUN",
+                "Ammo Type":"Shotgun Shells",
+                "Optic Class":"Close Range",
+                "Image":"mastiff_shotgun.svg"
+            },
+            "MOZAMBIQUE SHOTGUN":{
+                "Name":"MOZAMBIQUE SHOTGUN",
+                "Ammo Type":"Shotgun Shells",
+                "Optic Class":"Close Range",
+                "Image":"mozambique_shotgun.svg"
+            },
+            "PEACEKEEPER":{
+                "Name":"PEACEKEEPER",
+                "Ammo Type":"Shotgun Shells",
+                "Optic Class":"Close Range",
+                "Image":"peacekeeper.svg"
+            },
+            "RE-45 AUTO":{
+                "Name":"RE-45 AUTO",
+                "Ammo Type":"Light Rounds",
+                "Optic Class":"Close Range",
+                "Image":"re45_auto.svg"
+            },
+            "P2020":{
+                "Name":"P2020",
+                "Ammo Type":"Light Rounds",
+                "Optic Class":"Close Range",
+                "Image":"p2020.svg"
+            },
+            "WINGMAN":{
+                "Name":"WINGMAN",
+                "Ammo Type":"Sniper Ammo",
+                "Optic Class":"Close Range",
+                "Image":"wingman.svg"
+            }
+        },
+        "Optics":{
+            "Close Range":["Iron Sights","1x HCOG 'Classic'","1x Holo","1x Digital Threat","1x-2x Variable Holo","2x HCOG 'Bruiser'"],
+            "Mid-Range":["Iron Sights","1x HCOG 'Classic'","1x Holo","1x-2x Variable Holo","2x HCOG 'Bruiser'","3x HCOG 'Ranger'","2x-4x Variable AOG"],
+            "Sniper":["Iron Sights","1x HCOG 'Classic'","1x Holo","1x-2x Variable Holo","2x HCOG 'Bruiser'","3x HCOG 'Ranger'","2x-4x Variable AOG","6x Sniper","4x-8x Variable Sniper","4x-10x Digital Sniper Threat"]
+            
+        },
+        "Maps":{"Kings Canyon":["Crash Site","Artillery","Spotted Lake","Runoff","The Pit",
+            "Airbase","Gauntlet","Salvage","Bunker","Market",
+            "Containment","Caustic Treatment","Repulsor","Hydro Dam","The Cage",
+            "Labs","Capacitor","Broken Relay","The Rig","Swamps"],
+            "World's Edge":["Trials","SkyHook","Countdown","Lava Fissure","Landslide",
+                "Staging","Thermal Station","Harvester","Tree","Lava Siphon",
+                "Launch Site","The Dome","Lava City","Big Maude","Geyser",
+                "Overlook","Fragment East","Fragment West","The Epicenter","Survey Camp",
+                "Climatizer"],
+            "Olympus":["Hammond Labs","Turbine","Rift","Power Grid","Fight Night",
+                "Docks","Carrier","Oasis","Estates","Elysium",
+                "Hydroponics","Phase Driver","Bonsai Plaza","Icarus","Orbital Cannon",
+                "Solar Array","Terminal","Grow Towers","Gardens","Energy Depot"],
+                "Storm Point":["Antenna","Fish Farms","Launch Pad","Cenote Cave","North Pad",
+                    "Barometer","Ship Fall","Command Center","Gale Station","The Mill",
+                    "Storm Catcher","Cascade Falls","Checkpoint","The Wall","Highpoint",
+                    "Lightning Rod","Thunder Watch"]}
+                }
